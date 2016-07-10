@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\NetUDPClient.o
+./debug\NetUDPClient_Rustavi.o
+./debug\TIndicatorFrame.o
+./debug\qrc_images.o
+./debug\moc_mainwindow.o
+./debug\moc_NetUDPClient.o
+./debug\moc_NetUDPClient_Rustavi.o
+./debug\moc_TIndicatorFrame.o
+);

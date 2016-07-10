@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\NetUDPClient.o
+./release\NetUDPClient_Rustavi.o
+./release\TIndicatorFrame.o
+./release\qrc_images.o
+./release\moc_mainwindow.o
+./release\moc_NetUDPClient.o
+./release\moc_NetUDPClient_Rustavi.o
+./release\moc_TIndicatorFrame.o
+);

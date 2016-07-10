@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/player_fwd.png</file>
+        <file>images/player_bwd.png</file>
+        <file>images/player_pause.png</file>
+        <file>images/button_shutdown.png</file>
+        <file>images/player_bwd_.png</file>
+        <file>images/player_fwd_.png</file>
+        <file>images/player_pause_.png</file>
+        <file>images/post.png</file>
+        <file>images/arrow_down_green_sq.png</file>
+        <file>images/arrow_up_green_sq.png</file>
+        <file>images/arrow_down_green_sq_.png</file>
+        <file>images/arrow_up_green_sq_.png</file>
+        <file>images/water_.png</file>
+        <file>images/tanks.png</file>
+        <file>images/arrow_up_green_sq__.png</file>
+        <file>images/water__.png</file>
+        <file>images/arrow_down_green_sq__.png</file>
+        <file>images/player_bwd__.png</file>
+        <file>images/player_fwd__.png</file>
+        <file>images/player_pause__.png</file>
+        <file>images/metal.png</file>
+        <file>images/player_bwd___.png</file>
+        <file>images/player_fwd___.png</file>
+        <file>images/b_sq_grey_144.png</file>
+        <file>images/b_sq_red_144.png</file>
+        <file>images/b_sq_green_144.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,104 @@
+QPushButton#pushButton_RolgangRight
+{
+	image:url(:/images/images/player_fwd.png);
+	border:none;
+}
+QPushButton#pushButton_RolgangRight:pressed
+{
+	image:url(:/images/images/player_fwd_.png);
+	border:none;
+}
+
+QPushButton#pushButton_RolgangLeft
+{
+	image:url(:/images/images/player_bwd.png);
+	border:none;
+}
+QPushButton#pushButton_RolgangLeft:pressed
+{
+	image:url(:/images/images/player_bwd_.png);
+	border:none;
+}
+
+QPushButton#pushButton_RolgangStop
+{
+	image:url(:/images/images/player_pause.png);
+	border:none;
+}
+QPushButton#pushButton_RolgangLeft:pressed
+{
+	image:url(:/images/images/player_pause_.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB2_Up
+{
+	image:url(:/images/images/arrow_up_green_sq.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB2_Up:pressed
+{
+	image:url(:/images/images/arrow_up_green_sq_.png);
+	border:none;
+}
+QPushButton#pushButton_MAB2_Down
+{
+	image:url(:/images/images/arrow_down_green_sq.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB2_Up:pressed
+{
+	image:url(:/images/images/arrow_down_green_sq_.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB1_Up
+{
+	image:url(:/images/images/arrow_up_green_sq.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB1_Up:pressed
+{
+	image:url(:/images/images/arrow_up_green_sq_.png);
+	border:none;
+}
+QPushButton#pushButton_MAB1_Down
+{
+	image:url(:/images/images/arrow_down_green_sq.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB1_Up:pressed
+{
+	image:url(:/images/images/arrow_down_green_sq_.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB1_Water
+{
+	image:url(:/images/images/water_.png);
+	border:none;
+}
+
+QPushButton#pushButton_MAB1_Water:pressed
+{
+	image:url(:/images/images/water.png);
+	border:none;
+}
+
+QFrame#frame_Post1
+{
+	image:url(:/images/images/post.png);
+	background-color: rgb(255, 255, 205);
+}
+QFrame#frame_Rolgang
+{
+	background-color: rgb(85, 170, 255);
+}
+QFrame#frame_Tanks
+{
+	image: url(:/images/images/tanks.png);
+}
